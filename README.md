@@ -1,8 +1,5 @@
 # uptiq.ai-rgit(BroCode)
 ## Document Summarizer
-Here's a visually appealing README for your hackathon submission. It highlights the problem statement, features, and individual agents in a structured and engaging way. Let me know if you want any tweaks!  
-
----
 
 # 🚀 DocSumm – Smart Document Summarizer AI Agents  
 
