@@ -20,19 +20,19 @@ Understanding lengthy and jargon-heavy documents can be time-consuming. **DocSum
 🔹 **Legal Documents:** Highlights critical clauses in contracts, agreements, and case studies.  
 🔹 **Financial Reports:** Extracts insights from balance sheets, market analyses, and earnings reports.  
 🔹 **Compliance & Audits:** Condenses regulatory documents for quick review.  
-🔹 **Vocal Chat Feature:** Enables discussion-based legal and financial summarization.  
+ 
 
 ### 🔹 **Edsumm** – Education Document Summarizer  
 🔹 **Lecture Notes:** Converts class notes into concise, exam-ready summaries.  
 🔹 **Textbook Extraction:** Highlights key points and definitions.  
 🔹 **Exam Q&A Generator:** Analyzes notes and predicts probable questions.  
-🔹 **Vocal Chat Feature:** Allows students to clarify concepts through AI-driven conversation.  
+ 
 
 ### 🔹 **Medsumm** – Medical Report Summarizer  
 🔹 **Clinical Reports:** Summarizes patient history, diagnoses, and treatments.  
 🔹 **Research Papers:** Extracts findings from complex medical studies.  
 🔹 **Medical Journals:** Provides quick insights for healthcare professionals.  
-🔹 **Vocal Chat Feature:** Enables medical practitioners to discuss reports with AI.  
+
 
 ## 💡 Conclusion  
 **DocSumm** revolutionizes document summarization by offering **AI-powered, domain-specific summaries** for finance, education, and healthcare. Whether you're a **lawyer, student, or doctor**, our AI agents ensure **fast, accurate, and meaningful** content extraction.  
